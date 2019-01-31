@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Provinsi Indonesia</string>
+    <string name="about">Bagi Anda yang ingin menyampaikan kritik dan saran serta informasi lebih, hubungi di bawah ini :\n \n \nSMARTDEV</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="kota">Kota</string>
+    <string name="pulau">Pulau</string>
+    <string name="julukan">Julukan</string>
+    <string name="zonawaktu">Zona Waktu</string>
+    <string name="semboyan">Semboyan</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="tentang">About</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="inter_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
